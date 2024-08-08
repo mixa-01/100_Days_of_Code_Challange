@@ -1,1 +1,20 @@
+learned Time complexity from these video:
+1. https://www.youtube.com/watch?v=FPu9Uld7W-E&t=593s
+2. https://www.youtube.com/watch?v=Mo4vesaut8g&t=6439s
 
+Link Of the problem I solved : 
+
+A. Anton and Danik
+https://codeforces.com/problemset/problem/734/A
+
+A . Beautiful Matrix
+https://codeforces.com/problemset/problem/263/A
+
+A. Boy or Girl
+https://codeforces.com/problemset/problem/236/A
+
+A. Colorful Stones Simplified Edition  
+https://codeforces.com/problemset/problem/265/A
+
+A. Games
+https://codeforces.com/problemset/problem/268/A
